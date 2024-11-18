@@ -1,5 +1,5 @@
 <h3 align="center">
- Writehub
+ Writerhub
 </h3>
 
 <p align="center">
@@ -24,4 +24,4 @@ Tem o objetivo de criar um sistema para publicação e visualização de posts/a
 
 ## 💬 Feedback
 
-Envie um email para esse endereço <wesleyeugenio3@gmail.com> para dar um feedback, sugerir alguma mudança ou dar uma opnião sobre o projeto.
+Envie um email para esse endereço <wesleyeugenio3@gmail.com> para dar um feedback, sugerir alguma mudança ou dar uma opinião sobre o projeto.
